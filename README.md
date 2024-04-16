@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mohamedlaminebabou a phd candidate in applied mathematics for ML.
 - 👀 I’m interested in applied mathematics and Machine Learning.
-- 🌱 I’m currently learning Tensors decompositions and its applications for ML.
+- 🌱 I’m currently working on Tensors decompositions and its applications for ML.
 - 💞️ I’m looking to collaborate on the Tensors decompositions and advanced Multi-linear algebra
 - 📫 How to reach me, contact me by email : mohamedlaminebabou@gmail.com. 
 
